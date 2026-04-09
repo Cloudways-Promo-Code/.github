@@ -6,9 +6,9 @@
 
 ## Why Most "Verified" Promo Code Lists Waste Your Time (And How This Guide Is Different)
 
-Let's address the elephant in the room: searching for "cloudways promo code" typically leads to frustrating experiences. You find lists claiming codes were "verified today," only to discover at checkout that they've expired, don't apply to your account type, or were never valid in the first place. Some sites even fabricate timestamps to appear trustworthy.
+Let's address the elephant in the room: searching for "cloudways promo code" typically leads to frustrating experiences. You find lists claiming codes were "verified today," only to discover at checkout that they've expired, don't apply to your account type, or were never valid in the first place.
 
-This guide takes a different approach—**prioritizing honesty over hype**. I won't claim to have "personally tested codes for your account today" because that would be misleading. Promo eligibility depends on factors unique to *your* situation: account history, geographic region, device fingerprint, and current campaign terms—none of which I can verify remotely.
+This guide takes a different approach—**prioritizing honesty over hype**. I won't claim to have "personally tested codes for your account today" because promo eligibility depends on factors unique to *your* situation: account history, geographic region, and current campaign terms.
 
 Instead, I provide you with:
 - ✅ Transparent information about legitimate promotional pathways currently available through Cloudways
@@ -161,6 +161,13 @@ The most significant savings come from avoiding overspending on unnecessary reso
 - Scale vertically (more RAM/CPU) before horizontally (multiple servers) for cost efficiency
 - Remember: A $14 plan with 30% off ($9.80) still costs more than a properly sized $11 plan without discounts
 
+### Strategy 3: Review Optional Add-ons During Checkout
+During server configuration, Cloudways offers optional premium add-ons (Cloudflare Enterprise CDN, Malware Protection, SafeUpdates, etc.). 
+
+✅ **Transparent tip:** Review each add-on's value for your specific use case before adding. Some sites need advanced security; others don't. Only pay for what you actually need.
+
+⚠️ **Verification note:** Whether add-ons are included in current promotions varies by campaign. Always check the final order summary before payment to confirm which discounts apply.
+
 ---
 
 ## Cloudways Promo Code FAQ: Honest Answers to Real Questions
@@ -187,6 +194,12 @@ If BLOGGINGSTART doesn't apply, it doesn't mean the code is "fake"—it means yo
 Cloudways' standard policy prohibits combining multiple promotional offers unless explicitly stated in promotion terms. Attempting to stack codes typically results in only the first valid code being accepted. Choose based on your needs:
 - **BLOGGINGSTART:** Best for minimal initial commitment ($30 flat credit on $11 plan = 2.7 months coverage)
 - **HIGHSPEED:** Best for predictable savings on mid-tier plans (30% off × 5 months + migration value)
+
+### What is the actual promotion duration?
+✅ **Verified:** The current official promotion offers **30% off for 5 months** + unlimited free migrations for WordPress sites. This was confirmed by user verification of Cloudways' official promo page on April 9, 2026.
+
+### Does the discount apply to renewals?
+❌ **No.** Cloudways discounts typically apply to the initial promotional period of a first-time purchase only. Once the 5-month promotional period ends, standard pricing applies. Renewal promotions may occasionally be offered separately.
 
 ---
 
