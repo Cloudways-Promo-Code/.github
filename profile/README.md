@@ -1,5 +1,3 @@
-# Cloudways Promo Code 2024: Transparent Guide to Real Savings ($30 Credit + 30% Off)
-
 > ✅ **Last Updated:** April 9, 2024  
 > ⏱️ **Reading Time:** ~12 minutes  
 > ✅ **Fact-Checked By:** Md Noman Miah
